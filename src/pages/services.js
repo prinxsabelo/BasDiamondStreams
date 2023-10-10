@@ -140,15 +140,7 @@ const Services = () => {
                             data-sal-easing="ease">
                             <h4>AGRICULTURE</h4>
                             <p>
-                                Via our efficiency, expertise, extensive resources, and broad-based versatility in
-                                covering the project development and management arena, our Civil Constructions
-                                Consult is well equipped for acting as your project consultant regardless of your
-                                size or purse. Our corporate size and flexibility also afford us to act as
-                                sub-contractors to larger construction firms and property development corporations
-                                with a tested guarantee of excellent performance and timeliness in meeting up with
-                                necessary project deadlines.
-
-
+                                We are business group vested in the end-to-end agriculture value chain in Nigeria, and Africa by extension, by maximizing existing and emerging opportunities in the agro-allied sector and creating the right platforms for stakeholders. As part of efforts to drive self-sustainability through economic diversification, BAS Diamond Streams Nigeria Limited via its subsidiary company Bas Agro Allied Service Limited a leading business conglomerate in Africa launched an innovative platform to facilitate improved productivity in the agricultural sector of the nation’s economy. This novel initiative poised to complement the efforts of the federal government in the area of self-sustainability in food production targets in the entire agricultural value chain. Our mission is to drive an agricultural revolution across the continent by, and lead the drive to deliver self-sufficiency in food production, cover the entire agriculture value chain from farming to harvesting, processing, production of livestock products through exploitation in aquaculture, such as cattle ranch, poultry farming and agro processing of inputs to the production and exploitation of animal husbandry such as feed mill, storage, transportation, and up to the end-users. This also include exporting agro-products across the globe.
                             </p>
                         </div>
                     </div>
