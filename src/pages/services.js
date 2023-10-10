@@ -135,6 +135,22 @@ const Services = () => {
 
                             </p>
                         </div>
+                         <div className='card' data-sal="slide-up"
+
+                            data-sal-easing="ease">
+                            <h4>AGRICULTURE</h4>
+                            <p>
+                                Via our efficiency, expertise, extensive resources, and broad-based versatility in
+                                covering the project development and management arena, our Civil Constructions
+                                Consult is well equipped for acting as your project consultant regardless of your
+                                size or purse. Our corporate size and flexibility also afford us to act as
+                                sub-contractors to larger construction firms and property development corporations
+                                with a tested guarantee of excellent performance and timeliness in meeting up with
+                                necessary project deadlines.
+
+
+                            </p>
+                        </div>
                     </div>
                 </section>
             </main>
